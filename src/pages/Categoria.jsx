@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import "../assets/css/blog.css"
 import { buscar } from '../api/api'
 import ListCategories from '../components/ListCategories'
-import ListPosts from '../components/ListPosts'
+import ListPosts from '../components/ListPost'
 import SubCategoria from './SubCategoria'
 import { useParams, Routes, Route, Link, useResolvedPath } from 'react-router-dom'
 

@@ -1,5 +1,5 @@
-import ListPosts from "../ListPost"
-import ListCategories from "../ListCategories"
+import ListPosts from "../components/ListPost"
+import ListCategories from "../components/ListCategories"
 
 
 
